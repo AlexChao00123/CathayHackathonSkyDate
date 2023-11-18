@@ -1,0 +1,67 @@
+
+.navbar-static-top.navbar-inverse {
+    background-color: #F7F6F1;
+}
+
+footer .footer-bottom {
+    background-color: #F7F6F1;
+}
+
+.navbar-toggle {
+    background-color: #F7F6F1;
+}
+
+p, .p, .page_section p, .section-diagonal-left p, .section-diagonal-right p {
+    font-family: "Cathay Sans EN",sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2A2C2E;
+}
+
+.navbar-inverse .navbar-toggle {
+    border: none;
+}
+
+
+
+h1.siteTitle, .navbar-static-top.navbar-inverse .navbar-brand a h1.siteTitle, .navbar-static-top.navbar-inverse .navbar-brand a h1.siteTitle > span {
+    display: inline;
+    vertical-align: middle;
+    color: #403a3a;
+    font-family: "Cathay Sans EN",sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.navbar-static-top.navbar .menu-bar > .navbar-nav > li > a {
+    color:#2A2C2E; 
+}
+
+body {
+    font-family: "Cathay Sans EN",sans-serif;
+}
+
+.col-md-6 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.button1 {
+    color: white;
+    border-color: #2c4036;
+    background-color: #2c4036;
+}
+
+.btn-primary {
+    color: white;
+    border-color: #2c4036;
+    background-color: #2c4036;
+    justify-content: center;
+}
+
+.btn-primary:hover {
+    color: white;
+    border-color: #2e4238;
+    background-color: #2e4238;
+    justify-content: center;
+}
