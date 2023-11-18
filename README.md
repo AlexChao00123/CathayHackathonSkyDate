@@ -3,6 +3,8 @@
 ## Prototype Link
 https://tourmatch-1140.powerappsportals.com/
 
+The app cannot be set public due to the access right, we can grant site access manually. Please provide the team account if needed and teams alex_chao@hack23.cathaypacific.com.
+
 ## Introduction
 Welcome to SkyTravel, the app that revolutionizes the way we travel! Imagine being able to find like-minded travel companions in just one click. With SkyTravel, you can connect with fellow travelers who share your interests and form customized travel groups. Our customer-to-customer model allows users to create personalized tours and itineraries according to their preferences. Whether you're seeking adventure, cultural experiences, or relaxation, SkyTravel has got you covered.
 
