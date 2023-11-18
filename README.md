@@ -1,28 +1,29 @@
-# CathayHackathonSkyDate
+# SkyTravel App
 
-SkyTravel App
-Welcome to SkyTravel, the app that revolutionizes the way we travel by connecting like-minded individuals and providing a range of customizable tour experiences. With SkyTravel, you can create your own tours, connect with fellow travelers, and enjoy a variety of benefits and rewards.
+## Prototype Link
+https://tourmatch-1140.powerappsportals.com/
 
-Key Features
-Customized Tours: Create personalized tours and itineraries based on your interests, preferences, and travel goals. Design unique experiences that align with your schedule and individual needs.
+## Introduction
+Welcome to SkyTravel, the app that revolutionizes the way we travel! Imagine being able to find like-minded travel companions in just one click. With SkyTravel, you can connect with fellow travelers who share your interests and form customized travel groups. Our customer-to-customer model allows users to create personalized tours and itineraries according to their preferences. Whether you're seeking adventure, cultural experiences, or relaxation, SkyTravel has got you covered.
 
+## Features and Benefits
+- **Customized Tours**: Create your own tours and itineraries that suit your interests, preferences, and travel goals. Enjoy the freedom to design unique experiences tailored to your desires.
+- **Wide Selection of Tours**: Browse and choose from a diverse range of tours offered by other users. Use filters to find the perfect tour that matches your preferences.
+- **Booking and Payment**: Easily book and pay for tours within the app. Say goodbye to the hassle of making separate arrangements and transactions.
+- **Real-life Chat System**: Once you're allowed to join a tour, enter our real-life chat system. Stay connected with your travel group members, communicate, and share exciting moments together.
+- **Loyalty Rewards**: Earn loyalty points in our reward system as you complete tours. Redeem these points for discounts and perks for future purchases within the Cathay group.
 
-Advantages and Benefits
-Customized Experiences: SkyTravel empowers users to design their own tours, providing the freedom to create customized travel experiences that suit their interests and preferences.
+## Advantages of SkyTravel
+- **Flexible and Personalized Experiences**: Create tours that fit your own interests and schedule. Enjoy greater flexibility in planning and participation, accommodating your unique needs and availability.
+- **Meet Like-minded Travelers**: Connect with individuals who share similar interests and passions. Foster new friendships, network, and engage in cultural exchange, enhancing your social connections while traveling.
 
-Flexibility: Users have the flexibility to create and join tours based on their own schedules, accommodating various time constraints and availability. This allows for greater convenience and participation.
+## Target Audience
+While SkyTravel caters to various types of users, it particularly targets high-value customers of Cathay who prioritize traveling with a lifestyle. It helps build a sense of belongingness within the Cathay ecosystem and offers a wide range of functions and benefits that attract customers' attention. By collaborating with Cathay's business partners, the app promotes the Cathay brand and expands the Cathay Group's business into accommodation, brand retailing, and luxurious experiences. This cross-selling approach increases revenue opportunities beyond air travel.
 
-Social Connections: By creating and joining tours, users can meet like-minded individuals, fostering new friendships, networking opportunities, and cultural exchange, enhancing social connections while traveling.
+## Technology Stack
+To create SkyTravel, we harnessed the power of a no-code platform called Power Pages and integrated CoPilot technology. Power Pages served as a Content Management System, providing users with effortless trip management and a user-friendly interface to create personalized tours. CoPilot, powered by generative AI, played a crucial role by offering intelligent suggestions and ideas to enhance the user experience and ensure a seamless journey planning process. We also leveraged the Power Platform for integrating an AI chatbot, simplifying the user experience and providing efficient customer support. Throughout the development process, we incorporated cutting-edge technologies, including CoPilot and ChatGPT, to harness the capabilities of advanced AI.
 
-Increased Engagement and Loyalty: The combination of tour customization and travel incentives drives user engagement and encourages long-term app usage, building customer loyalty within the Cathay ecosystem.
+## Future Development
+Looking ahead, we have exciting plans for further development. One of our key objectives is to integrate with the Cathay Membership program, allowing users to earn or deduct Asia Miles within our app. This integration will add value and rewards to users' travel experiences, encouraging long-term usage and fostering customer loyalty with Cathay.
 
-Brand Promotion: SkyTravel promotes the Cathay brand by collaborating with business partners, expanding the Cathay Group's presence in accommodation, brand retailing, and luxurious experiences. This enhances cross-selling opportunities and revenue generation beyond air travel.
-
-SkyTravel offers a range of functions and benefits that attract customers, particularly targeting high-value Cathay customers who value travel as a lifestyle. By providing customizable tours, fostering social connections, and offering incentives, SkyTravel aims to create a sense of belongingness and loyalty within the Cathay ecosystem while promoting the brand and expanding revenue opportunities.
-
-Technology and Future Development
-SkyTravel was developed using the Power Pages no-code platform, which provided a user-friendly Content Management System for effortless trip management. CoPilot, our advanced AI technology, played a vital role in offering intelligent suggestions and enhancing the user experience. The integration of an AI chatbot streamlined customer support, ensuring a smooth journey for users. Our commitment to innovation means we continuously explore new technologies. CoPilot and ChatGPT, powered by cutting-edge AI capabilities, were utilized to build the app.
-
-In the future, we plan to integrate the Cathay Membership program, allowing users to earn or redeem Asian miles within the app. This integration will provide additional value and rewards, further enhancing the travel experience for our users.
-
-SkyTravel is your gateway to a world of personalized travel experiences. With our app, you have the freedom to connect with like-minded travelers, create unforgettable tours, and embark on extraordinary journeys. Join us on this adventure and revolutionize the way you travel.
+SkyTravel is designed to offer a seamless, personalized, and technologically advanced platform for users to create and enjoy their unique travel experiences. Join us today and embark on unforgettable journeys with like-minded travelers!
